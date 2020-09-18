@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    color: darkslategrey;
+    background-image: url("./images/geometric-leaves/geometric-leaves.png");
+    background-size: auto;
+    margin: 0px;
+    text-align: center;
+  }
+
+header{
+    background-color: darkslategray;
+    color: whitesmoke;
+    margin-top: 0px;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td{
+    border: solid 1px black;
+}
+h1, h2{ margin: 0;}
+
+section{
+    border-bottom: solid 30px darkslategray;
+    padding: 20px;
+}
+iframe {
+    border-radius: 50px;
+}
+img{
+    padding: 20px;
+    border-radius: 50px;
+}
